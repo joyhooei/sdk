@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xs_reg_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\xs_reg_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kd_circle_bg1.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\kd_circle_bg1.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_btn_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_sure_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_sure_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_login_in.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_login_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_menu_item_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_menu_item_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_circle_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_circle_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_edit_two_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_edit_two_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_pw_list_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_pw_list_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_gv_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_gv_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdk_sure_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\sdk_sure_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdk_btn_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\sdk_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_order_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_order_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdk_edit_three_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\sdk_edit_three_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdk_edit_four_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\sdk_edit_four_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_edit_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_edit_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_login_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_login_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdk_circle_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\sdk_circle_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_progressbar_style.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_progressbar_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdk_sure_bg_press.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\sdk_sure_bg_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_login_onekey_register.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_login_onekey_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_giftdialog_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_giftdialog_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_userinfo_bg_top.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_userinfo_bg_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdk_btn_stroke.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\sdk_btn_stroke.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdk_edit_two_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\sdk_edit_two_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_sure_bg_press.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_sure_bg_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_mygamelist_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_mygamelist_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdk_spalns_login.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\sdk_spalns_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttw_menu_item_press.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\ttw_menu_item_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdk_login_in.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\drawable\\sdk_login_in.xml"
+    }
+]

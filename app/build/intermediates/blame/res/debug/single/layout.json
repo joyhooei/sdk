@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_user_agreement.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_user_agreement.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_tell_service.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\sdk_tell_service.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_cz_navigation.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_cz_navigation.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_user_register.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\sdk_user_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_order_account.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_order_account.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_mobliecard_pay.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_mobliecard_pay.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_notification.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_notification.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_order_dealing.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_order_dealing.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_login.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_game_pay.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\sdk_game_pay.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_menu_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_menu_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_oneregister.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\sdk_oneregister.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_order_item.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_order_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_bank_pay.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_bank_pay.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_tel_login.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\sdk_tel_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_load_more.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_load_more.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_order_item_wait.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_order_item_wait.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_ptb_pay.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\sdk_ptb_pay.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_order_item_fail.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_order_item_fail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_order_item_sucess.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_order_item_sucess.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_notice.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\sdk_notice.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_pay_onekeyzifu_next.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_pay_onekeyzifu_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_pw_list.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_pw_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_money_list.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_money_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_money_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_money_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_float_web.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\sdk_float_web.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_kefu.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_kefu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_charge_item.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\sdk_charge_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_menu_list.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_menu_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_gift.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_gift.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_alipay_pay.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_alipay_pay.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_sdk.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_sdk.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_register_two.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_register_two.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_order_item_null.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_order_item_null.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_charge_list.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_charge_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_charge_two.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\sdk_charge_two.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_tel_register.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\sdk_tel_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\float_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\float_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_pd.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_pd.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ttw_pw_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\YWSDK2_81\\app\\src\\main\\res\\layout\\ttw_pw_list_item.xml"
+    }
+]

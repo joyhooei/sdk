@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\YWSDK2_81\app\libs\ttw_security-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0e83cf12efc51917a52440d790ce666d51e4343c">
+        <dex dex="D:\AndroidStudioProjects\YWSDK2_81\app\build\intermediates\pre-dexed\debug\ttw_security-1.1_657535d8b824c9a58ae2416036962ed9dc9ad310.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\YWSDK2_81\app\libs\ipaynow_base_v1.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0f7afb1af74fc92a5b415f5657bdccc60249e60">
+        <dex dex="D:\AndroidStudioProjects\YWSDK2_81\app\build\intermediates\pre-dexed\debug\ipaynow_base_v1.3.2_595defd953268572285d7d616bc60e8ee7f56412.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\YWSDK2_81\app\libs\commons-codec-1.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
+        <dex dex="D:\AndroidStudioProjects\YWSDK2_81\app\build\intermediates\pre-dexed\debug\commons-codec-1.6_dff9032c36751268380184c8b078f9fb57e05dc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\minghe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidStudioProjects\YWSDK2_81\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_786255d4fd5b3254f2076eb94052c4cd1dbcb9b3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\YWSDK2_81\app\libs\alipaySdk-20151112.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ce758768906f045b279735e7cefc0b89160d9d6">
+        <dex dex="D:\AndroidStudioProjects\YWSDK2_81\app\build\intermediates\pre-dexed\debug\alipaySdk-20151112_62467deebeef334a11c1052de1c068039faed2be.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\YWSDK2_81\app\libs\locSDK_4.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="D:\AndroidStudioProjects\YWSDK2_81\app\build\intermediates\pre-dexed\debug\locSDK_4.2_c35a78003d42a5b9a3cfbad78e915b0ba5f94238.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\YWSDK2_81\app\libs\ipaynow_wechatwp_v1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4bf3847854fc98aae4de42a1896a8984e417897c">
+        <dex dex="D:\AndroidStudioProjects\YWSDK2_81\app\build\intermediates\pre-dexed\debug\ipaynow_wechatwp_v1.0.1_cf016158b58f1337f22e1e01a489753368136ad2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\YWSDK2_81\app\libs\commons-lang.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ef6449b62937bbd10e29ba9ed9a852754b861d26">
+        <dex dex="D:\AndroidStudioProjects\YWSDK2_81\app\build\intermediates\pre-dexed\debug\commons-lang_6a07739b16ad2215be2c052b85a9d9af41c750eb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\YWSDK2_81\app\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="D:\AndroidStudioProjects\YWSDK2_81\app\build\intermediates\pre-dexed\debug\xUtils-2.5.5_57bdfa6058772252eaec95b56a3d41fcb1c6ae6c.jar" />
+    </item>
+
+</items>
